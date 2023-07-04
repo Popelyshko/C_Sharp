@@ -1,0 +1,15 @@
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\bin\Debug\net7.0\Задача_8.exe
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\bin\Debug\net7.0\Задача_8.deps.json
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\bin\Debug\net7.0\Задача_8.runtimeconfig.json
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\bin\Debug\net7.0\Задача_8.dll
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\bin\Debug\net7.0\Задача_8.pdb
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.csproj.AssemblyReference.cache
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.AssemblyInfoInputs.cache
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.AssemblyInfo.cs
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.csproj.CoreCompileInputs.cache
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.dll
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\refint\Задача_8.dll
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.pdb
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\Задача_8.genruntimeconfig.cache
+C:\Users\Наташа\Documents\C#_домашние_задания\Урок_1\Задача_8\obj\Debug\net7.0\ref\Задача_8.dll
